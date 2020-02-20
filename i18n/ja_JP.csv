@@ -1,0 +1,13 @@
+MageSuite,MageSuite
+Bestsellers,ベストセラー
+Cron,Cron
+"Enable Daily Calculation","デイリー集計を行う"
+"Orders Period","注文の期間"
+"Boosting Factors","ブースト要素"
+"Boosting Factor A","ブースト要素A"
+"Boosting Factor B","ブースト要素B"
+"Boosting Factor C","ブースト要素C"
+"Boosting Factor D","ブースト要素D"
+"Sold Out Decrease Factor","売切れ商品のマイナス係数"
+Sorting,並べ替え
+"Sorting Direction","昇順・降順"
